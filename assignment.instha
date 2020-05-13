@@ -1,0 +1,29 @@
+
+ASSIGNMENT TOPIC : GOOGLE BUSINESS DATA OF ALL SMALL BUSINESS OF ANY MAJOR METROPOLITAN CITY IN US AND PROVIDE DATASET.
+
+what is yelp ?
+
+Yelp's website, Yelp.com, is a crowd-sourced local business review and social networking site. 
+The site has pages devoted to individual locations, such as restaurants or schools,where
+Yelp users can submit a review of their products or services using a one to five star rating system.
+
+dataset:a collection of related sets of information that is composed of separate elements but can be manipulated as a unit
+by a computer.
+The dataset should have all of the useful features stand out. 
+For example, if we were to make a model whose job is to detect where the person is on an image, our dataset should consist of images which contain people for who we know their exact location on the image.
+After successfully collecting data, it should be converted into a format that our model understands. 
+In general, the input data, whether it’s texts, images, videos, or sounds, is turned into vectors and tensors to which linear algebra operations can be applied. The data needs to be normalized, standardized and cleaned to increase its effectiveness.
+Until then, the data is called Raw data (unprocessed data).
+
+dataset of all small business in united states is provided by the following link
+https://places.factual.com/data/t/places#filters={%22$and%22:[{%22country%22:{%22$eq%22:%22US%22}}]}&offset=40
+
+When building a dataset, it’s important to know what features to look for, so that the model can get the most benefit out of it. 
+After acquiring the data, we need to do noise removal, to make the useful features stand out.
+
+
+#assignment topic
+#introduction
+#about dataset
+#dataset of some small business in US provided by the link
+#concluding the topic 
